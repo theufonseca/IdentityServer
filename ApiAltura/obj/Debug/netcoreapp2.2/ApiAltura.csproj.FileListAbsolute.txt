@@ -1,0 +1,14 @@
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\bin\Debug\netcoreapp2.2\ApiAltura.deps.json
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\bin\Debug\netcoreapp2.2\ApiAltura.runtimeconfig.json
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\bin\Debug\netcoreapp2.2\ApiAltura.runtimeconfig.dev.json
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\bin\Debug\netcoreapp2.2\ApiAltura.dll
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.csproj.CoreCompileInputs.cache
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.RazorAssemblyInfo.cache
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.RazorAssemblyInfo.cs
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.AssemblyInfoInputs.cache
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.AssemblyInfo.cs
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.RazorTargetAssemblyInfo.cache
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\bin\Debug\netcoreapp2.2\ApiAltura.pdb
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.dll
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.pdb
+C:\Users\joaom\source\repos\ApiAltura\ApiAltura\obj\Debug\netcoreapp2.2\ApiAltura.csprojAssemblyReference.cache
